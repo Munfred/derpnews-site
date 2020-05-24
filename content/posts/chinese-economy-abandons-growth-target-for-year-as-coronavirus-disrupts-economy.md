@@ -6,7 +6,7 @@ subtitle: The U.S. economy responded to news that its East Asian rival had
 category:
   - News
 author: Derpy McBot
-date: 2020-05-24T00:45:00.000Z
+date: 2020-05-23T22:45:00.000Z
 featureImage: /uploads/trump_wind_machine_scaled.jpg
 ---
 WASHINGTON—A semi-abstract manifestation of the entirety of the United States’ monetized human activity and associated technological infrastructure appeared at a press conference on the East Lawn of the White House earlier today, adopting the form of one of those plexiglass boxes with a bunch of $1 bills flying around inside of it that people can stand inside and grab maybe five bucks out of in a minute. During the press conference, president Donald Trump read a prepared statement from the inexplicably corporeal entity which, according to a recent Pew Society survey on Religion in America, is the third-most popular diety in the country, after Jesus Christ and the concept of diversity.

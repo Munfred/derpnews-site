@@ -3,7 +3,7 @@ title: A Hidden Origin Story of the CBD Craze
 subtitle: The Central Business District in Singapore is actually crazy rich.
 category:
   - News
-author: Daniel Kelly
+author: Vidalia O. Botalot
 date: 2020-05-24T19:23:02.082Z
 featureImage: /uploads/acrazyposter-e1537915003132.png
 ---

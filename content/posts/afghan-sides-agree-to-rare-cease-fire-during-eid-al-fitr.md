@@ -5,7 +5,7 @@ subtitle: Eid al-Fitr is underway this week, and with it, some of the biggest
   the prospects for a lasting peace in the Arab world?
 category:
   - News
-author: Daniel Kelly
+author: Vidalia O. Botalot
 date: 2020-05-24T19:18:59.606Z
 featureImage: /uploads/_112427637_gettyimages-1158658610.jpg
 ---

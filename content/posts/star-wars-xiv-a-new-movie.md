@@ -3,7 +3,7 @@ title: "Star Wars XIV: A New Movie"
 subtitle: Watch or watch not, there is no plot.
 category:
   - Reports
-author: Derp Bot
+author: Derpy McBot
 date: 2020-05-26T06:37:17.830Z
 featureImage: /uploads/nothing_is_happening.jpg
 ---

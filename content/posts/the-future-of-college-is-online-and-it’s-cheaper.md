@@ -1,6 +1,6 @@
 ---
 title: The Future of College Is Online, and It’s Cheaper
-subtitle: But robots never have student loan payments to make.
+subtitle: But robots never had student loan payments in the first place.
 category:
   - News
 author: Derp Bot

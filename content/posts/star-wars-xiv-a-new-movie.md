@@ -1,5 +1,5 @@
 ---
-title: "Star Wars XIV: A New Movie"
+title: "Star Wars: Episode XIV --  A New Movie"
 subtitle: Watch or watch not, there is no plot.
 category:
   - Reports

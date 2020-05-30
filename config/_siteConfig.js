@@ -40,7 +40,7 @@ export default {
   // Card Layout
   cards: {
     imageDimensions: '3x2', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
-    theme: 'grid' // Options: boxes, grid, image-grid
+    theme: 'boxes' // Options: boxes, grid, image-grid
   },
 
   // Disqus
@@ -60,7 +60,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://club.us4.list-manage.com/subscribe/post?u=cb056f6ae74f9861425cc3b54&amp;id=97dada2702'
+        'https://news.us10.list-manage.com/subscribe/post?u=5dc54d5e1d149be12a922f426&amp;id=4394ddbb39'
     },
     custom: {
       on: false,

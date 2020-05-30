@@ -17,9 +17,9 @@
           <markdown :markdown="$store.state.content" />
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
-              Unrelated Posts
+              More Clickbait
             </h6>
-            <!-- Unrelated Posts -->
+            <!-- More Clickbait -->
             <posts-grid :number="3" :category="category" :exclude="slug" />
           </div>
           <disqus-comments :identifier="$route.params.singlePost" />

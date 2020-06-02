@@ -1,7 +1,6 @@
 ---
 title: Live Updates From Our Reporters
-subtitle: '"Do YOU have a really impactful statement to make???" -- Golden
-  Comment Retriever'
+subtitle: '"Do YOU have an impactful statement to make???" -- Golden Comment Retriever'
 category:
   - News
 author: Derp Bot

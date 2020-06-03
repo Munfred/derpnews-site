@@ -5,7 +5,7 @@ category:
   - News
 author: Derp Bot
 date: 2020-06-03T16:07:46.409Z
-featureImage: /uploads/alien_dumpster_burned_out_car.jpg
+featureImage: /uploads/alien_dumpster_burned_out_car_cropped.jpg
 ---
 SAN DIEGO--In an eerily parrotlike incident that has become the latest of dozens of terrifying outbreaks that appear to be the work of an enigmatic alien force, sources reported Thursday that a deeply blinking, blinking, and coming out of the post-virus world has recently appeared in San Diego.
 

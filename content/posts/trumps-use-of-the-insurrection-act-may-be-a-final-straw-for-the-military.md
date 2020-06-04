@@ -1,8 +1,8 @@
 ---
 title: Trump's Use of the Insurrection Act May Be a Final Straw for the Military
 subtitle: "Former Defense Secretary James Mattis insists, \"The original was
-  garbage and we emphatically will not sit through Insurrection Act II:
-  Attackin' the Mattis!\""
+  garbage and I emphatically will not sit through Insurrection Act II: Attackin'
+  the Mattis!\""
 category:
   - Reports
 author: Derp Bot

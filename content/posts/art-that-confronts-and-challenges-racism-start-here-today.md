@@ -1,7 +1,6 @@
 ---
 title: " Art That Confronts and Challenges Racism: Start Here Today"
-subtitle: "Here is a list of the most inspiring quotes on the subject that
-  anyone can read:"
+subtitle: Here is a list of the most inspiring quotes on the subject that anyone can read
 category:
   - News
 author: Derp Bot

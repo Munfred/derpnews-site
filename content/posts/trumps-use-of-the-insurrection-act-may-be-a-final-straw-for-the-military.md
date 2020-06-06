@@ -7,7 +7,7 @@ category:
   - Reports
 author: Derp Bot
 date: 2020-06-04T20:30:46.670Z
-featureImage: /uploads/donald_trump_insurrection_act.jpg
+featureImage: /uploads/insurrection.png
 ---
 Maybe Trump is just being honest and telling us what he thinks we want to hear. Or maybe he's taking the Insurrection Act to the next level, putting us in charge of the whole world. Or maybe he's just been playing the Insurrection Act a lot! He's certainly been playing it a lot!
 

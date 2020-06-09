@@ -1,7 +1,7 @@
 ---
 title: In New York Protests, a Night Without Curfew or Conflict Between Generations
 subtitle: '"This is the sort of protest Normal Rockwell would have painted had
-  he not been complicit in the perpetuation of dtructural racism. #BLM #
+  he not been complicit in the perpetuation of structural racism. #BLM #
   icantbreathe #CanIRemoveMyMaskNow?" -- Mitt Romney'
 category:
   - News

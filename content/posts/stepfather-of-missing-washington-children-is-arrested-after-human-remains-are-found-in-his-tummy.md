@@ -1,7 +1,7 @@
 ---
 title: Stepfather of Missing Idaho Children Is Arrested After Human Remains Are
   Found In His Tummy
-subtitle: How... Olympian?
+subtitle: How Olympian
 category:
   - News
 author: Derp Bot

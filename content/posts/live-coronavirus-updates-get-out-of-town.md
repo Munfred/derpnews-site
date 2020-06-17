@@ -24,4 +24,6 @@ Macon Fire Marshal Manning said that Macon's Fire Department does not have much 
 
 Manning also noted that Macon Fire Department has been ordered by the state of Georgia to put on a fire-truck and join the fire-men from the state of Georgia. Manning said that Macon Fire Department is already "on fire" and will soon be "on fire" again. Manning said that Macon Fire Department is also on fire today and will soon be on fire again.
 
+---
+
 **Click [here](https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html) for a fake news parody of our thorough investigative reporting.**

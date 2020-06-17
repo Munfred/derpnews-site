@@ -22,4 +22,6 @@ The saga has led to a widespread humanitarian crisis in the West Mifflin area, w
 
 With the rumors already thick in the air, the Leben family has been forced to take comfort in the presence of a number of individuals who will pick up the story and bring it up with their children.
 
+---
+
 **Click [here](https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html) for a fake news parody of our thorough investigative reporting.**

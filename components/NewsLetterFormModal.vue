@@ -8,7 +8,8 @@
     <news-letter-form />
   </modal-overlay>
 </template>
-<script>
+ <script>
+ <!--
 import ModalOverlay from '~/components/ModalOverlay'
 import NewsLetterForm from '~/components/NewsLetterForm'
 export default {
@@ -21,6 +22,7 @@ export default {
     }
   }
 }
+-->
 </script>
 
 <style lang="scss">

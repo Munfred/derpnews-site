@@ -9,7 +9,7 @@
   </modal-overlay>
 </template>
  <script>
- <!--
+
 import ModalOverlay from '~/components/ModalOverlay'
 import NewsLetterForm from '~/components/NewsLetterForm'
 export default {
@@ -22,7 +22,7 @@ export default {
     }
   }
 }
--->
+
 </script>
 
 <style lang="scss">

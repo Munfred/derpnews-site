@@ -27,7 +27,7 @@ export default {
   components: { NewsLetterForm },
   data() {
     return {
-      active: true
+      active: false
     }
   },
   computed: {

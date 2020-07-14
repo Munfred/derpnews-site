@@ -76,9 +76,9 @@ export default {
 }
 .grid-theme-grid .items,
 .grid-theme-image-grid .items {
-  padding: 0.75rem;
+  padding: 0.5rem;
   .column {
-    padding: 0;
+    padding: 1;
   }
 }
 .grid-theme-image-grid .items {

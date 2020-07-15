@@ -1,6 +1,7 @@
 ---
 title: "100,000: The Names Behind a Grim Toll-Free Telephone Line"
 subtitle: Hello, Hello? A-hoy-hoy!
+featuredNews: true
 category:
   - Reports
 author: Derp Bot

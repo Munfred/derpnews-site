@@ -11,7 +11,10 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
+        <h2>FEATURES</h2>
+        <featured-posts-grid />
         <!-- All Posts -->
+        <h5>Celebrities Fighting in Public</h5>
         <posts-grid />
       </template>
       <template v-slot:sidebar>

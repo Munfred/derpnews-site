@@ -8,7 +8,7 @@
         <featured-posts-grid />
         <!-- All Posts -->
         <h5 class="regular-posts-text">
-          CELEBRITIES FIGHTING NAKED! or something!
+          CELEBRITIES FIGHTING NAKED! <br> Or something!
         </h5>
         <posts-grid />
       </template>
@@ -49,16 +49,16 @@ export default {
   border-top: none;
 }
 .featured-text {
-  font-family: 'Cabin Sketch', cursive;
-  //font-family: 'Fredericka the Great', cursive;
-  color: red;
-  font-size: 40px;
+  //font-family: 'Cabin Sketch', cursive;
+  font-family: 'Fredericka the Great', cursive;
+  color: black;
+  font-size: 60px;
   text-align: center;
 }
 .regular-posts-text {
   font-family: 'Frijole', cursive;
-  color: red;
-  font-size: 20px;
+  color: black;
+  font-size: 30px;
   text-align: center;
 }
 </style>

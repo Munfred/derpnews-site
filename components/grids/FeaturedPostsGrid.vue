@@ -22,7 +22,7 @@ export default {
   name: 'FeaturedPostsGrid',
   components: { FeaturedPostCard },
   props: {
-    perRow: { type: Number, default: 2 },
+    perRow: { type: Number, default: 1 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
     category: {

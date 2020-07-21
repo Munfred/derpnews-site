@@ -24,6 +24,15 @@
       }"
     >
       <ul class="navbar-end">
+        <li class="navbar-item">
+          <button
+            v-if="$siteConfig.newsletter.headerOn"
+            class="button is-primary"
+            @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
+          >
+            subscribe to derp.newsletter
+          </button>
+        </li>
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"

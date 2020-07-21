@@ -13,10 +13,10 @@
       v-if="author && $siteConfig.posts.displayAuthor"
       class="author-wrapper"
     >
-      <strong>Author:</strong> {{ author }} |
+      <strong>By:</strong> {{ author }} |
     </span>
     <span v-if="date" class="date-wrapper">
-      <strong>Published on:</strong> {{ datePretty }}
+      <strong> </strong> {{ datePretty }}
     </span>
   </generic-card>
 </template>

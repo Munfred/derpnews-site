@@ -2,10 +2,10 @@
   <featured-resource-grid
     v-bind="$props"
     :resource="$cms.post"
-    :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
+    :theme="$siteConfig.posts.theme || $siteConfig.featuredCards.theme || null"
   >
     <template v-slot:default="{ item }">
-      <post-card
+      <featured-post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
@@ -17,12 +17,12 @@
 </template>
 
 <script>
-import PostCard from '~/components/cards/PostCard'
+import FeaturedPostCard from '~/components/cards/FeaturedPostCard'
 export default {
-  name: 'PostsGrid',
-  components: { PostCard },
+  name: 'FeaturedPostsGrid',
+  components: { FeaturedPostCard },
   props: {
-    perRow: { type: Number, default: 5 },
+    perRow: { type: Number, default: 2 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
     category: {

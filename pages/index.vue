@@ -11,10 +11,10 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-        <h2>FEATURES</h2>
+        <h2 style="color:red;font-size:40px;">EXTRA EXTRA!!!</h2>
         <featured-posts-grid />
         <!-- All Posts -->
-        <h5>Celebrities Fighting in Public</h5>
+        <h5>Celebrities <b>Fighting</b> <i>_NAKED_</i> in Public</h5>
         <posts-grid />
       </template>
       <template v-slot:sidebar>

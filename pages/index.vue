@@ -3,12 +3,12 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <h2 class="featured-text">
-          <b>EXTRA! EXTRA! READ ALL ABOUT IT!</b>
+          EXTRA! EXTRA! READ ALL ABOUT IT!
         </h2>
         <featured-posts-grid />
         <!-- All Posts -->
         <h5 class="regular-posts-text">
-          <b>CELEBRITIES FIGHTING NAKED! or something!</b>
+          CELEBRITIES FIGHTING NAKED! or something!
         </h5>
         <posts-grid />
       </template>
@@ -49,11 +49,14 @@ export default {
   border-top: none;
 }
 .featured-text {
+  font-family: 'Cabin Sketch', cursive;
+  //font-family: 'Fredericka the Great', cursive;
   color: red;
   font-size: 40px;
   text-align: center;
 }
 .regular-posts-text {
+  font-family: 'Frijole', cursive;
   color: red;
   font-size: 20px;
   text-align: center;

@@ -1,20 +1,15 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <button
-        v-if="$siteConfig.newsletter.on"
-        class="button is-primary"
-        @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
-      >
-        Subscribe To Newsletter
-      </button>
-    </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-        <h2 style="color:red;font-size:40px;">EXTRA EXTRA!!!</h2>
+        <h2 class="featured-text">
+          <b>EXTRA! EXTRA! READ ALL ABOUT IT!</b>
+        </h2>
         <featured-posts-grid />
         <!-- All Posts -->
-        <h5>Celebrities <b>Fighting</b> <i>_NAKED_</i> in Public</h5>
+        <h5 class="regular-posts-text">
+          <b>CELEBRITIES FIGHTING NAKED! or something!</b>
+        </h5>
         <posts-grid />
       </template>
       <template v-slot:sidebar>
@@ -52,5 +47,15 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
+}
+.featured-text {
+  color: red;
+  font-size: 40px;
+  text-align: center;
+}
+.regular-posts-text {
+  color: red;
+  font-size: 20px;
+  text-align: center;
 }
 </style>

@@ -3,7 +3,7 @@
     <intersection-observer v-if="items.length === 0" @view="$emit('atEnd')" />
     <div class="columns items is-multiline">
       <div
-        v-for="(item, index) in itemsComputed"
+        v-for="(item, index) in itemsNotFeatured"
         :key="item.title ? item.title : index"
         :class="`column items`"
         :style="`width: ${100 / perRow}%`"
@@ -44,8 +44,11 @@ export default {
     }
   },
   computed: {
-    itemsComputed() {
-      return this.items.length ? this.items : this.placeholders
+    itemsNotFeatured() {
+      const tempItems = this.items.length ? this.items : this.placeholders
+      return tempItems.filter((item) => {
+        return !item.featuredNews
+      })
     }
   }
 }

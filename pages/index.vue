@@ -8,7 +8,8 @@
         <featured-posts-grid />
         <!-- All Posts -->
         <h5 class="regular-posts-text">
-          CELEBRITIES FIGHTING NAKED! <br> Or something!
+          CELEBRITIES FIGHTING NAKED!<br />
+          Or something!
         </h5>
         <posts-grid />
       </template>

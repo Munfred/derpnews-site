@@ -5,7 +5,7 @@
         v-if="author && $siteConfig.posts.displayAuthor"
         class="author-wrapper"
       >
-        <strong>Author:</strong> {{ author }}
+        <strong>Author:</strong> {{ author }} |
       </span>
       <span v-if="date" class="date-wrapper">
         {{ date }}

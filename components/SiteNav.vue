@@ -30,7 +30,7 @@
             class="button is-primary"
             @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
           >
-            subscribe to derp.newsletter
+            Subscribe to DerpNews<i>letter</i>
           </button>
         </li>
         <li

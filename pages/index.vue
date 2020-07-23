@@ -2,14 +2,14 @@
   <div id="home-page" class="page-wrapper home-page">
     <main-section theme="one-column">
       <template v-slot:default>
-        <h2 class="featured-text" style="font-size:150%; color:red;">
+        <h2 class="featured-text" style="font-size:20vw; color:red;">
           EXTRA! EXTRA! </h2>
-        <h2 class="featured-text " style="font-size:50%;">
+        <h2 class="featured-text " style="font-size:5vw;">
           READ ALL ABOUT IT!
         </h2>
         <featured-posts-grid />
         <!-- All Posts -->
-        <h5 class="regular-posts-text" style="font-size:150%; color:red;">
+        <h5 class="regular-posts-text" style="font-size:3vw%; color:red;">
           CELEBRITIES FIGHTING NAKED!<br />
           Or something!
         </h5>

@@ -3,7 +3,8 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <h2 class="featured-text" style="font-size:20vw; color:red;">
-          EXTRA! EXTRA! </h2>
+          EXTRA! EXTRA!
+        </h2>
         <h2 class="featured-text " style="font-size:5vw;">
           READ ALL ABOUT IT!
         </h2>

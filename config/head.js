@@ -21,11 +21,13 @@ export default {
     },
     {
       rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap'
+      href:
+        'https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap'
     },
     {
       rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap'
+      href:
+        'https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap'
     }
   ],
   script: [

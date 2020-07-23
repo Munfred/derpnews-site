@@ -8,7 +8,7 @@
         <strong>Author:</strong> {{ author }} |
       </span>
       <span v-if="date" class="date-wrapper">
-        <strong> </strong>  {{ date }}
+        {{ date }}
       </span>
     </site-hero>
     <main-section :one-column-constrained="true">

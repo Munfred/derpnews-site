@@ -11,9 +11,6 @@
         <slot :item="item"></slot>
       </div>
     </div>
-    <div v-if="bottomLoader" class="loading-posts">
-      <loading-spinner />
-    </div>
     <intersection-observer @view="$emit('atEnd')" />
   </div>
 </template>

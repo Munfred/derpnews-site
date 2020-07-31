@@ -3,7 +3,7 @@ title: Zuckerberg Defends Approach to Trump's Facebook Posts
 subtitle: The fact remains that the bulk of our users have been thoroughly
   satisfied with our policy of publishing inflammatory videos with our photo and
   caption
-featuredNews: true
+featuredNews: false
 category:
   - News
 author: Derp Bot

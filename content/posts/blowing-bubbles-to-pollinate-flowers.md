@@ -1,7 +1,7 @@
 ---
 title: Blowing Bubbles to Pollinate Flowers
 subtitle: 🐝🌼 🌸🍯
-featuredNews: true
+featuredNews: false
 category:
   - News
 author: Derp Bot

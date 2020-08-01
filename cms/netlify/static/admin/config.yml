@@ -21,6 +21,7 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "Derp Bot"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featureImage", widget: "image"}
+      - {label: "Image Caption", name: "imageCaption", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "categories"
     label: "Categories"

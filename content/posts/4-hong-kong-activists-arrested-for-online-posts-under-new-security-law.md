@@ -1,7 +1,7 @@
 ---
 title: 4 Hong Kong Activists Arrested for Online Posts Under New Security Law
 subtitle: Wtf is a 郝海东冠状病六四事件法轮功 ?
-featuredNews: true
+featuredNews: false
 category:
   - Reports
 author: Derp Bot

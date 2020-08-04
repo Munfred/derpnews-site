@@ -3,7 +3,7 @@ title: "Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers
   Planned for ‘Day X’"
 subtitle: Investigative reporting has also uncovered a ring of annoying
   philosophy students planning for "Day Y"
-featuredNews: true
+featuredNews: false
 category:
   - Investigative journalism
 author: Derp Bot
